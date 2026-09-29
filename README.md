@@ -55,10 +55,10 @@ Sistem ini menggunakan *Multi-role Authentication* untuk menjaga alur kerja (wor
 ## 📸 Tampilan Aplikasi
 
 ### Halaman Beranda / Landing Page
-![Landing Page](public/assets/img/backgrounds/Landing.png)
+![Landing Page](public/assets/img/Landing.png)
 
 ### Halaman Login
-![Login Page](public/assets/img/backgrounds/Login.png)
+![Login Page](public/assets/img/Login.png)
 
 ## 🛠 Panduan Instalasi (Development)
 
