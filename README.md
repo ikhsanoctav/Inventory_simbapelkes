@@ -52,6 +52,11 @@ Sistem ini menggunakan *Multi-role Authentication* untuk menjaga alur kerja (wor
 - **Request System (Keranjang Permintaan):** Pegawai dan tamu dapat memilih barang menggunakan sistem layaknya _cart_ untuk diajukan ke admin.
 - **Reporting & Export:** Cetak dokumen laporan secara berkala atau spesifik per transaksi ke format PDF atau Excel. Termasuk pembuatan struk barang keluar.
 
+## 📸 Tampilan Aplikasi
+
+### Halaman Login
+![Login Page](public/assets/img/backgrounds/Login.png)
+
 ## 🛠 Panduan Instalasi (Development)
 
 Untuk menjalankan proyek ini di mesin lokal, ikuti langkah-langkah berikut:
