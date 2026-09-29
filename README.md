@@ -54,6 +54,9 @@ Sistem ini menggunakan *Multi-role Authentication* untuk menjaga alur kerja (wor
 
 ## 📸 Tampilan Aplikasi
 
+### Halaman Beranda / Landing Page
+![Landing Page](public/assets/img/backgrounds/Landing.png)
+
 ### Halaman Login
 ![Login Page](public/assets/img/backgrounds/Login.png)
 
